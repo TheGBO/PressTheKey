@@ -3,7 +3,7 @@ var scoreDisplay = document.getElementById("score-display");
 
 const letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
-var speed = 1000;
+var speed = 1900;
 var score = 0;
 
 document.addEventListener('keypress', (e) => {
